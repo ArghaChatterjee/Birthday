@@ -148,7 +148,7 @@ p {
     
   }
  p, .back {
-    font-size: 3.1vw;
+    font-size: 4vw;
    line-height: 20px 
 
 
@@ -162,7 +162,7 @@ p {
     position: absolute;
     bottom: 19vw;
     text-decoration: none;
-    font-size: 5vw;
+    font-size: 4.5vw;
     left: 5vw;
     color: #fafafa;
     /* transform: translate(-50%, -50%); */
