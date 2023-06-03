@@ -149,6 +149,8 @@ p {
   }
  p, .back {
     font-size: 3.1vw;
+   line-height: 20px 
+
 
 }
   .bt{
@@ -161,7 +163,7 @@ p {
     bottom: 19vw;
     text-decoration: none;
     font-size: 5vw;
-    left: 7%;
+    left
     color: #fafafa;
     /* transform: translate(-50%, -50%); */
   }
