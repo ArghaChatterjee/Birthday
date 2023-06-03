@@ -138,7 +138,7 @@ p {
 }
 @media screen and (max-width: 500px){
   body{ 
-    text-align: center;
+
     background-image: url("back.jpg");
     overflow: hidden;
   }
